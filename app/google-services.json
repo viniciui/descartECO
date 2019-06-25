@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "316438932852",
+    "firebase_url": "https://appdescarteco.firebaseio.com",
+    "project_id": "appdescarteco",
+    "storage_bucket": "appdescarteco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316438932852:android:c86acac56de3665c",
+        "android_client_info": {
+          "package_name": "com.example.descarteco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316438932852-plos92u4bqe14j5d4scobj5b56kpaj3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.descarteco",
+            "certificate_hash": "72cc4ca6795134329e4dcf1327b6d7c756adc02a"
+          }
+        },
+        {
+          "client_id": "316438932852-k6ltrl85dm1vts9ukplbh2luvgack2er.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Y4KNaqWjvfnOXKiPooGDKf8zZ0K31vU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316438932852-k6ltrl85dm1vts9ukplbh2luvgack2er.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
